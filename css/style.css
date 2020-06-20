@@ -45,10 +45,30 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      min-height: 300px; }
+      min-height: 300px; }+
 
 #carouselButton {
   right: 0px;
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#modalHeader {
+  background-color: #512DA8; }
+
+#modalBody {
+  background-color: #D1C4E9; }
+
+#modalCross{
+  color: floralwhite;
+}
+
+#loginHeader {
+  background-color: #512DA8; }
+
+#loginBody {
+  background-color: #D1C4E9; }
+
+#closeLogin{
+  color: floralwhite;
+}

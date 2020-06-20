@@ -74,3 +74,15 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+#modalHeader{
+    background-color: $background-dark;
+}
+#modalBody{
+    background-color: $background-pale;
+}
+#loginHeader{
+    background-color: $background-dark;
+}
+#loginBody{
+    background-color: $background-pale;
+}
